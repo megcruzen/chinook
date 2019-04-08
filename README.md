@@ -7,6 +7,7 @@ Click the download button from the [Chinook Database](https://github.com/lerocha
 ## Instructions
 1. Draw an ERD of the Chinook database with [dbdiagram.io](http://www.dbdiagram.io). Make sure to label primary keys, foreign keys, and indicate the type of relationship (one to one, one to many, many to many, etc) for each relationship.
 
+<img src="chinookERD.png" />
 
 2. Once you get a SQL statement working for one of the exercises, copy the SQL statement and paste it into the corresponding file for the exercise (_see below_). If your query doesn't return the expected results, try try again.
 
